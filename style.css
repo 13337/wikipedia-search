@@ -1,0 +1,39 @@
+body {
+  text-align:center;
+  background-color: #9A8297;
+  color: white;
+  font-family: "Ubuntu mono", monospace;
+}
+
+#search {
+  font-size: 1.2em;
+  font-weight: bold;
+  background-color: #9A8297;
+  border-radius: 1em;
+  border: .2em solid white;
+  padding: .2% 1%;
+  width: 65%;
+  margin: 15% auto 1% auto;
+}
+#searchbox {
+  margin-bottom: 2%;
+  }
+.searchresults {
+  background-color: #E0E0E0;
+  color: black;
+  margin-bottom: .2em;
+  margin-left: auto;
+  margin-right: auto;
+  width: 75%;
+  border: .2em solid black;
+  text-align:left;
+  padding: .2em;
+  position: relative;
+}
+span{
+  padding: .2%;
+  margin-top: 15em;
+}
+.searchresults{
+  text-decoration: none;
+}
